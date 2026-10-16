@@ -1,4 +1,4 @@
-# focusly 🍅
+# focusly 
 
 A simple **Pomodoro focus timer** app built with Flutter for my Mobile Application Development course.
 
